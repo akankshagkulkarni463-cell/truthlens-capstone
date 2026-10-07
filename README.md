@@ -44,6 +44,16 @@ The following are intended capabilities, not current functionality:
 
 **Early setup.** The repository currently contains project documentation, license, and ignore rules. Implementation, datasets, models, and user-facing features have not been added yet.
 
+## Getting started
+
+There is no application to install or run yet. After cloning this repository:
+
+1. Read this README for project intent, status, and planned work.
+2. Read `CLAUDE.md` for development conventions on the AI-assisted track.
+3. See `LICENSE` for the MIT License terms.
+
+Install steps, dataset sources, and model-run commands will be documented here when those pieces exist in the repository.
+
 ## Project structure
 
 The repository currently contains only the files below. There are no source-code directories or application files yet.
