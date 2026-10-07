@@ -2,7 +2,9 @@
 
 An explainable artificial intelligence framework for misleading news detection and news credibility assessment.
 
-TruthLens is a capstone project on an AI-assisted development track. The goal is to help users evaluate news content more carefully by combining classification with explanations that people can inspect, rather than treating the model as a black box.
+TruthLens is a capstone project on an AI-assisted development track. It is intended for readers and evaluators who need more than a fake-or-real label.
+
+In this project, **misleading-news detection** means identifying text that is likely false, distorted, or framed in a way that could mislead. **Credibility assessment** means producing a structured judgment of how trustworthy that item appears. The two are meant to work together: a detection or credibility output should be paired with an explanation of which signals influenced it, so the result can be inspected rather than treated as a black box.
 
 ## Problem
 
