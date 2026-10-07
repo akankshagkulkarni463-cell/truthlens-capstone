@@ -44,6 +44,23 @@ The following are intended capabilities, not current functionality:
 
 **Early setup.** The repository currently contains project documentation, license, and ignore rules. Implementation, datasets, models, and user-facing features have not been added yet.
 
+## Project structure
+
+The repository currently contains only the files below. There are no source-code directories or application files yet.
+
+```text
+.
+├── README.md
+├── LICENSE
+├── .gitignore
+└── CLAUDE.md
+```
+
+- **README.md** — Project overview, status, and planned work.
+- **LICENSE** — MIT License terms for this repository.
+- **.gitignore** — Ignore rules for local environments, secrets, caches, and generated files.
+- **CLAUDE.md** — Conventions for AI-assisted development on this project.
+
 ## Future scope
 
 Possible later work, depending on research results and time:
